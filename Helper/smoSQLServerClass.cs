@@ -10,11 +10,11 @@ using System.Windows.Forms;
 using System.IO;
 /// <summary>
 /// Author      : Okyanus Soft
-/// Create date : 2016-01-01
+/// Create date : 2024-01-01
 /// Description :SMO Connection Class
 /// Latest
 /// Modifier    : Okyanus Soft
-/// Modify date : 2016-01-01
+/// Modify date : 2024-01-01
 /// </summary>
 namespace AS.Db.Tools.Helper
 {
