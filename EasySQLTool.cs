@@ -13,7 +13,16 @@ using System.IO;
 
 namespace AS.Db.Tools
 {
-	public partial class EasySQLTool : Form
+    /// <summary>
+    /// Author      : Okyanus Soft
+    /// Create date : 2024-06-05
+    /// Description :  EasySQLTool
+    /// Latest
+    /// Modifier    : Okyanus Soft
+    /// Modify date : 2024-06-05
+    /// </summary>
+
+    public partial class EasySQLTool : Form
 	{
 		#region Variables
 		Helper.sqlBizClass objSQL = new Helper.sqlBizClass();
